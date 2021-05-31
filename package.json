@@ -1,0 +1,31 @@
+{
+  "name": "module-18-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assets/js/script.js",
+  "scripts": {
+    "webpack": "webpack --watch",
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.46.0",
+    "webpack-cli": "^4.6.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawnlittrel/food-festival.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shawnlittrel/food-festival/issues"
+  },
+  "homepage": "https://github.com/shawnlittrel/food-festival#readme"
+}
